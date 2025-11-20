@@ -29,8 +29,20 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sepehr-biglari/Klitam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sepehr-biglari&repo=Klitam&theme=dark" />
+  <a href="https://github.com/sepehr-biglari/Kalitam">
+    <img src="assets/kalitam.png"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sepehr-biglari/Cafe-Orbital">
+    <img src="assets/orbital.png"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sepehr-biglari/dambin">
+    <img src="assets/dombin.png" />
   </a>
 </p>
 
