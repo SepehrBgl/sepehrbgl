@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://assets-v2.lottiefiles.com/a/27ec7bbc-1180-11ee-854a-37f02ce2e0ea/IBAxvjuTxi.gif" alt="Coding Banner" width="600"/>
+  <img src="https://assets-v2.lottiefiles.com/a/27ec7bbc-1180-11ee-854a-37f02ce2e0ea/IBAxvjuTxi.gif" alt="Coding Banner" width="600"/>
 </p>
 
 # Hey 👋, I'm Sepehr
