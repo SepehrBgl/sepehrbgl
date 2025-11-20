@@ -4,7 +4,7 @@
 
 # Hey 👋, I'm Sepehr
 
-🚀 Full-Stack Developer | Product Manager | Startup Founder
+Founder and CEO @ Hecateco.ir
 
 ## 🔥 About Me
 
