@@ -29,16 +29,16 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sepehr-biglari/Kalitam">
+  <a href="https://github.com/sepehrbg/Kalitam">
     <img src="assets/kalitam.png" width="200" style="margin: 10px;"/>
   </a>
-  <a href="https://github.com/sepehr-biglari/Cafe-Orbital">
+  <a href="https://github.com/sepehrbg/Cafe-Orbital">
     <img src="assets/orbital.png" width="200" style="margin: 10px;"/>
   </a>
-  <a href="https://github.com/sepehr-biglari/dambin">
+  <a href="https://github.com/sepehrbg/dambin">
     <img src="assets/dombin.png" width="200" style="margin: 10px;"/>
   </a>
-  <a href="https://github.com/sepehr-biglari/CafeGame">
+  <a href="https://github.com/sepehrbg/CafeGame">
     <img src="assets/mega.png" width="200" style="margin: 10px;"/>
   </a>
 </p>
