@@ -29,30 +29,18 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <table style="border-spacing: 20px; border: none; display: inline-table;">
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://github.com/sepehr-biglari/Kalitam">
-          <img src="assets/kalitam.png" width="200"/>
-        </a>
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://github.com/sepehr-biglari/Cafe-Orbital">
-          <img src="assets/orbital.png" width="200"/>
-        </a>
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://github.com/sepehr-biglari/dambin">
-          <img src="assets/dombin.png" width="200"/>
-        </a>
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://github.com/sepehr-biglari/CafeGame">
-          <img src="assets/mega.png" width="200"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/sepehr-biglari/Kalitam">
+    <img src="assets/kalitam.png" width="200" style="margin: 10px;"/>
+  </a>
+  <a href="https://github.com/sepehr-biglari/Cafe-Orbital">
+    <img src="assets/orbital.png" width="200" style="margin: 10px;"/>
+  </a>
+  <a href="https://github.com/sepehr-biglari/dambin">
+    <img src="assets/dombin.png" width="200" style="margin: 10px;"/>
+  </a>
+  <a href="https://github.com/sepehr-biglari/CafeGame">
+    <img src="assets/mega.png" width="200" style="margin: 10px;"/>
+  </a>
 </p>
 
 
